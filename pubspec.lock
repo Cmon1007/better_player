@@ -431,8 +431,8 @@ packages:
     dependency: "direct main"
     description:
       path: wakelock
-      ref: HEAD
-      resolved-ref: a751f420e6baacdc6198e89bba583da7ec113d1d
+      ref: versionup
+      resolved-ref: "9f02df790f94f644ff0ff0c29f4a91a01532d3a8"
       url: "https://github.com/sasen98/wakelock"
     source: git
     version: "0.6.2"
